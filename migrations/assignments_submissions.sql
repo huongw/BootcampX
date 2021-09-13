@@ -15,5 +15,3 @@ CREATE TABLE assignment_submissions (
   submission_date DATE
 );
 
-
-
